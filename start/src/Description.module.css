@@ -1,0 +1,10 @@
+.head {
+    text-align: center;
+    font-weight: 100;
+    background-color: palevioletred;
+    padding: 10%;
+    
+}
+.body {
+    position: relative;
+}
