@@ -1,8 +1,8 @@
 # React-Portfolio
 I'm Shubham Patil worked on various react projects and i'm creating my portfolio webpage
-# Getting Started with Create React App
+# Getting Started with React-App
 
-This project was bootstrapped with [Create React App](https://github.com/shubhamuni/React-Portfolio.git.
+This project was bootstrapped with [npx react-app](https://github.com/shubhamuni/React-Portfolio.git.
 
 ## Available Scripts
 
